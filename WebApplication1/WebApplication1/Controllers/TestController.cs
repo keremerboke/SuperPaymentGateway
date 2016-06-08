@@ -9,5 +9,11 @@ namespace WebApplication1.Controllers
 {
     public class TestController : ApiController
     {
+
+        public void Get()
+        {
+
+        }
+
     }
 }
